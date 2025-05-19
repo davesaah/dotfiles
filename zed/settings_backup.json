@@ -1,5 +1,5 @@
 {
-  "agent": {
+  "assistant": {
     "default_model": {
       "provider": "zed.dev",
       "model": "claude-3-7-sonnet-latest"
@@ -16,9 +16,9 @@
   },
   "soft_wrap": "editor_width",
   "vim_mode": true,
-  "ui_font_size": 22,
+  "ui_font_size": 18,
   "buffer_font_family": "FiraCode Nerd Font Mono",
-  "buffer_font_size": 22,
+  "buffer_font_size": 18,
   "buffer_font_features": {
     "ligatures": true
   },
