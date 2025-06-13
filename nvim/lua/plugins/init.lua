@@ -47,6 +47,13 @@ return {
     "rcarriga/nvim-notify",
   },
 
+  -- haskell tools
+  {
+    "mrcjkb/haskell-tools.nvim",
+    version = "^5", -- Recommended
+    lazy = false, -- This plugin is already lazy
+  },
+
   {
     "goolord/alpha-nvim",
     opts = function()
